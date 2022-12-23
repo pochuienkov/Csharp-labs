@@ -1,0 +1,12 @@
+1 Standard 4 250 0  
+2 Comfort 2 500 0  
+3 Single 1 1000 0  
+4 Standard 4 250 0  
+5 Comfort 2 500 0  
+6 Single 1 1000 0  
+1 Standard 4 250 0  
+2 Comfort 2 500 0  
+3 Single 1 1000 0  
+4 Standard 4 250 0  
+5 Comfort 2 500 0  
+6 Single 1 1000 0  
